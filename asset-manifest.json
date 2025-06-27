@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/zmw-portfolio/static/css/main.eadb15c1.css",
+    "main.js": "/zmw-portfolio/static/js/main.f25632a4.js",
+    "static/js/453.ee1d1b6c.chunk.js": "/zmw-portfolio/static/js/453.ee1d1b6c.chunk.js",
+    "static/media/portfolio2.png": "/zmw-portfolio/static/media/portfolio2.9efd2859fc873b56d180.png",
+    "static/media/urban4.png": "/zmw-portfolio/static/media/urban4.cf12b0db3e0e33e7ccc6.png",
+    "static/media/alennp6.png": "/zmw-portfolio/static/media/alennp6.65fc007f233cb0a28c09.png",
+    "static/media/ai.jpg": "/zmw-portfolio/static/media/ai.7e3285bd022bec9aa625.jpg",
+    "static/media/perfomse.jpg": "/zmw-portfolio/static/media/perfomse.dcb735cc5fe0bcbd7ba5.jpg",
+    "static/media/portfolio1.png": "/zmw-portfolio/static/media/portfolio1.5ad10d48896907c91780.png",
+    "static/media/prtfolio3.png": "/zmw-portfolio/static/media/prtfolio3.fdd7f1e41e107ccbe0d3.png",
+    "static/media/mobile (1).jpg": "/zmw-portfolio/static/media/mobile (1).d2cbe4f0b8342c8845ad.jpg",
+    "static/media/sksport5.png": "/zmw-portfolio/static/media/sksport5.4cec51bc19e9ffaf5cb4.png",
+    "static/media/laim.jpeg": "/zmw-portfolio/static/media/laim.1a900d5fad190139a53a.jpeg",
+    "static/media/cb5d85b8-ff52-406c-a507-efbc9208d1ff.jpeg": "/zmw-portfolio/static/media/cb5d85b8-ff52-406c-a507-efbc9208d1ff.bfa8e190e1d2a3eaba8a.jpeg",
+    "static/media/david.jpeg": "/zmw-portfolio/static/media/david.5e187bf153119f9c55f0.jpeg",
+    "static/media/ahmad.jpg": "/zmw-portfolio/static/media/ahmad.afba6629c0ce8f6a1b7a.jpg",
+    "static/media/emily.jpeg": "/zmw-portfolio/static/media/emily.bb422b8ce3aeae2294f3.jpeg",
+    "static/media/portone.jpeg": "/zmw-portfolio/static/media/portone.3109ae93a06cda2cd94d.jpeg",
+    "static/media/fatima.jpg": "/zmw-portfolio/static/media/fatima.de04378e4f6349683b19.jpg",
+    "static/media/kenjal.jpeg": "/zmw-portfolio/static/media/kenjal.81984f2a0e086226d276.jpeg",
+    "static/media/maria.jpg": "/zmw-portfolio/static/media/maria.effb8ae4fa72b2cc7c03.jpg",
+    "static/media/sara.jpg": "/zmw-portfolio/static/media/sara.971eac1747655057e07a.jpg",
+    "index.html": "/zmw-portfolio/index.html",
+    "main.eadb15c1.css.map": "/zmw-portfolio/static/css/main.eadb15c1.css.map",
+    "main.f25632a4.js.map": "/zmw-portfolio/static/js/main.f25632a4.js.map",
+    "453.ee1d1b6c.chunk.js.map": "/zmw-portfolio/static/js/453.ee1d1b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eadb15c1.css",
+    "static/js/main.f25632a4.js"
+  ]
+}
